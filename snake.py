@@ -14,10 +14,10 @@ black = (0, 0, 0)
 green = (0, 255, 0)
 
 # Размер ячейки змейки
-snake_block = 10
+snake_block = 10c
 
 # Скорость змейки
-snake_speed = 15
+snake_speed = 10
 
 # Инициализация окна
 win = pygame.display.set_mode((width, height))

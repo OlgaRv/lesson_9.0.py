@@ -17,7 +17,6 @@ def generate_enemy():
 def move_enemies():
     for enemy in enemies:
         enemy.y += 5
-
 def check_collision():
     for enemy in enemies:
         if player.colliderect(enemy):
