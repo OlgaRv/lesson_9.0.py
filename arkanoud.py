@@ -99,6 +99,6 @@ while running:
     pygame.display.flip()
 
 # Контроль ФПС
-clock.tick(fps)
+    clock.tick(fps)
 pygame.quit()
 sys.exit()
